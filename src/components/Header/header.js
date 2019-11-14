@@ -9,10 +9,10 @@ function Header(props) {
             </div>
 
             <div className="col-4 text-center">
-                <h6 className = "score text-light">Click on any image to begin</h6>
+                <h6 className="score text-light">{props.message}</h6>
             </div>
             <div className="col-4 text-center">
-                <p className = "score text-light">Score: {props.children}||  Best: {props.children}</p>
+                <p className="score text-light">Score: {props.score}  ||  Best: {props.best}</p>
             </div>
         </nav>
     );

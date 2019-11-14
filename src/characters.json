@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Akari",
+        "image": "./assets/images/Akari.PNG",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Haruno",
+        "image": "./assets/images/Haruno.PNG",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Hinata",
+        "image": "./assets/images/Hinata.PNG",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Kaori",
+        "image": "./assets/images/kaori.PNG",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Kousei",
+        "image": "./assets/images/Kousei.PNG",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Kyouko",
+        "image": "./assets/images/Kyouko.PNG",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Momo",
+        "image": "./assets/images/Momo.PNG",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Rei Kiriyama",
+        "image": "./assets/images/Rei.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Touji",
+        "image": "./assets/images/Touji.PNG",
+        "clicked": false
+    }
+]

@@ -1,17 +1,12 @@
 import React from "react";
 import "./css.css";
+// var shuffle = require('shuffle-array');
 
 function ImageCreate(props) {
+
     return (
-        <div className="container">
-            {props.characters.map(char =>
-                (
-                    <div className="image" key={char.id}>
-                        <img src={char.image} alt="..." className="img-thumbnail" ></img>
-                    </div>
-                )
-            )}
-        </div>
+        <img src={props.image} alt={props.name} className="img-thumbnail img-fluid image" data-clicked={props.clicked}
+            onClick={() => props.change(props.id)}></img>
     )
 }
 
