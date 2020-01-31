@@ -15,4 +15,4 @@ There are Nine different character from an anime call "March Comes in Like a Lio
 4.  npm install Shuffle-Array
 
 # Deployed Site: 
-https://floating-ravine-19532.herokuapp.com/
+ https://pminhtri11.github.io/React-ClickyGame/
